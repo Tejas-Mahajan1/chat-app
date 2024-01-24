@@ -12,6 +12,11 @@
         "id": "2",
         "userId": "myUser",
         "messageText": "Hello, How Are You!"
+      },
+      {
+        "id": "1",
+        "userId": "1",
+        "messageText": "I'm Fine , what about you ?"
       }
     ]
   },
@@ -27,12 +32,64 @@
       {
         "id": "2",
         "userId": "myUser",
-        "messageText": "This is a text Message"
+        "messageText": "Are u Okay ?"
       },
       {
         "id": "3",
         "userId": "3",
         "messageText": "Will get back to you shortly"
+      },
+      {
+        "id": "4",
+        "userId": "myUser",
+        "messageText": "Fine , take your time"
+      },
+      {
+        "id": "5",
+        "userId": "3",
+        "messageText": "Yes I'm good , got some seriously important work !"
+      },
+      {
+        "id": "6",
+        "userId": "myUser",
+        "messageText": "OHHk , Lets play some counterstrike ok weekend !"
+      },
+      {
+        "id": "7",
+        "userId": "3",
+        "messageText": "I'm Down !!"
+      }
+    ]
+  },
+  {
+    "conversationId": "3",
+    "contactId": "4",
+    "messages": [
+      { "id": "1", "userId": "4", "messageText": "Hi there" },
+      {
+        "userId": "myUser",
+        "messageText": "I'm Fine , what about you ?"
+      },
+      {
+        "userId": "4",
+        "isRead": true,
+        "messageText": "Im good too. See you on Sunday"
+      }
+    ]
+  },
+  {
+    "conversationId": "4",
+    "contactId": "6",
+    "messages": [
+      { "id": "1", "userId": "6", "messageText": "Hi there" },
+      {
+        "id": "2",
+        "userId": "myUser",
+        "messageText": "Hello , Long Time No see !"
+      },{
+        "id":"3",
+        "userId": "6",
+        "messageText": "Lets play Valorant , Tonight !"
       }
     ]
   }
