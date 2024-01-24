@@ -3,7 +3,7 @@
 This project is a React-based chat application that allows users to create conversations, search for contacts, and exchange messages. It includes features such as creating new conversations, searching for contacts, and displaying chat messages.
 
 ## Live Demo
-Check out the live demo [here](https://main--vermillion-crumble-055e0d.netlify.app/).
+Check out the live demo [here](https://tejas-mahajan1.github.io/chat-app/).
 
 ## Table of Contents
 - [Available Scripts](#available-scripts)
